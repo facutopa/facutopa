@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi world 👋 I'm Facu
 
-<!--
-**facutopa/facutopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What i'm up to
+- 🔭 I’m currently working [@Penguin Random House](https://www.penguinrandomhousegrupoeditorial.com/)
+- 🌱 I’m currently learning Computer Engineer at [UM](https://www.unimoron.edu.ar/)
 
-Here are some ideas to get you started:
+<br/>
+<a href="https://twitter.com/facutopa">
+<img align="left" alt="My Twitter with my owns opinions" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.linkedin.com/in/facundotopa/">
+<img align="left" alt="My Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/facutopa/">
+<img align="left" alt="Facu Topa Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
+<br/>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![facutopa's github stats](https://github-readme-stats.vercel.app/api?username=facutopa&show_icons=true&hide_border=true)
