@@ -1,7 +1,7 @@
 ## Hi world 👋 I'm Facu
 
 ### What i'm up to
-- 🔭 I’m currently working [@Penguin Random House](https://www.penguinrandomhousegrupoeditorial.com/)
+- 🔭 I’m currently working [@Pluspetrol](https://www.pluspetrol.net/)
 - 🌱 I’m currently learning Computer Engineer at [UM](https://www.unimoron.edu.ar/)
 
 <br/>
